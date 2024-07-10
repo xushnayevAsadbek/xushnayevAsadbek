@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend(ReactJs,NextJs,Typescript)+developer)](https://git.io/typing-svg)
-<br />
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="30px">, I'm Asadbek</h1>
 <h3 align="center">A Frontend Developer from Uzbekistan</h3>
 
@@ -19,7 +17,7 @@
 My telegram account: <a href="https://t.me/Xushnayev_Asadbek">@Xushnayev_Asadbek</a> <br />
 My linkedin account: <a href="https://www.linkedin.com/in/asadbek-xushnaev/">www.linkedin.com/in/asadbek-xushnaev</a> -->
 <h5 align="center">
-  <a href="www.linkedin.com/in/asadbek-xushnaev" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/asadbek-xushnaev/" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/asadbek_xushnayev/" title="Instagram Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://t.me/Xushnayev_Asadbek" title="Telegram Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </h5>
