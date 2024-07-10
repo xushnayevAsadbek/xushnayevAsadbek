@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="30px">, I'm Asadbek</h1>
 <h3 align="center">A Frontend Developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xushnayevAsadbek&label=Profile%20views&color=0e75b6&style=flat" alt="xushnayevasadbek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xushnayevAsadbek&style=flat-square&color=blue" alt="xushnayevAsadbek"/> </p>
 
 - 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, React Formik, Ant Design, Material UI, I18Next, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, Git**
 
