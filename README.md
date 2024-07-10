@@ -1,11 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<h5 align="center">
+  <a href="https://www.linkedin.com/in/asadbek-xushnaev/" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/asadbek_xushnayev/" title="Instagram Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://t.me/Xushnayev_Asadbek" title="Telegram Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</h5>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xushnayevAsadbek&style=flat-square&color=blue" alt="xushnayevAsadbek"/> </p>
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="30px">, I'm Asadbek</h1>
 <h3 align="center">A Frontend Developer from Uzbekistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xushnayevAsadbek&style=flat-square&color=blue" alt="xushnayevAsadbek"/> </p>
-
 - 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, React Formik, Ant Design, Material UI, I18Next, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, Git**
 
 - 📫 How to reach me **xushnaevasadbek@gmail.com**
