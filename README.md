@@ -58,8 +58,10 @@ My linkedin account: <a href="https://www.linkedin.com/in/asadbek-xushnaev/">www
 <br />
 <h2 align="center">My GitHub Stats 📊</h2>
 <br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xushnayevAsadbek&show_icons=true&locale=en&layout=compact" alt="xushnayevAsadbek" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xushnayevAsadbek&show_icons=true&locale=en&layout=compact" alt="xushnayevAsadbek" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xushnayevAsadbek&show_icons=true&locale=en" alt="xushnayevAsadbek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xushnayevAsadbek&" alt="xushnayevAsadbek" /></p>
+</div>
