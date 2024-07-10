@@ -55,7 +55,7 @@ My linkedin account: <a href="https://www.linkedin.com/in/asadbek-xushnaev/">www
 <br />
 <h2 align="center">My GitHub Stats 📊</h2>
 <br />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xushnayevAsadbek&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=xushnayevAsadbek)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xushnayevAsadbek&theme=dark&background=000000)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohibjonabdialimov&show_icons=true&locale=en&layout=compact" alt="sohibjonabdialimov" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sohibjonabdialimov&show_icons=true&locale=en" alt="sohibjonabdialimov" /></p>
