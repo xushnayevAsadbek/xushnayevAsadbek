@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xushnayevAsadbek&style=flat-square&color=blue" alt="xushnayevAsadbek"/> </p>
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="30px">, I'm Asadbek</h1>
 <h3 align="center">A Frontend Developer from Uzbekistan</h3>
-- 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, React Formik, Ant Design, Material UI, I18Next, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase, Git**
+- 💬 Ask me about **ReactJs, Typescript, NextJs, Javascript, React-Redux, Redux-Toolkit, React Formik, Ant Design, Material UI, I18Next, HTML, CSS, Tailwind CSS, SASS, Bootstrap, Firebase,Java,Spring, Spring Boot, Spring Rest, Spring Data, Git**
 
 - 📫 How to reach me **xushnaevasadbek@gmail.com**
 - 👨‍💻 All of my projects are available at [https://bolalarolami.uz/](https://bolalarolami.uz/)
@@ -56,6 +56,7 @@ My linkedin account: <a href="https://www.linkedin.com/in/asadbek-xushnaev/">www
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt" **alt="nuxt" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   
 </div>
