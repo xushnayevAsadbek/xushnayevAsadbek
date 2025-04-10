@@ -56,6 +56,7 @@ My linkedin account: <a href="https://www.linkedin.com/in/asadbek-xushnaev/">www
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt" **alt="nuxt" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
 </div>
 <br />
 <h2 align="center">My GitHub Stats 📊</h2>
